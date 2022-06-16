@@ -1,0 +1,17 @@
+# Mini curso de TypeScript - Willian Justen
+
+Site oficial do Typescript: https://www.typescriptlang.org/
+
+## Types
+
+- Boolean
+- String
+- Number
+- Array
+- Tuple
+- Enum
+- Any
+- Void
+- Null
+- Never
+- Object
