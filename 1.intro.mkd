@@ -1,0 +1,33 @@
+# Mini curso de TypeScript - Willian Justen
+
+## O que é o TypeScript?
+
+- Superset do Javascript
+- Adiciona novas features ao JavaScript
+- Tipagem estática
+- Compila p/ JavaScript
+- Adoção gradual (.ts convivem com .js)
+
+\*Muitas vezes ainda não se considera como linguagem
+
+## Porque usar TypeScript?
+
+- Tipagem **estática** - Evita resultados inesperados
+
+```
+function sum(a,b) {
+  return a+b
+}
+sum(1,2) //3
+sum('1','2') //12 ops!
+```
+
+- **Avisa** se estiver fazendo algo errado
+- Funciona como uma espécie de **documentação** - Mostrando os tipos e valores que aceitam
+- Deixa sua IDE extremamente **poderosa**
+
+## Desvantagens do TypeScript
+
+- Necessita ser compilado
+- aprendizagem inicial e boa práticas
+- Erros muito grandes
