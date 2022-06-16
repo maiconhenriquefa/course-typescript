@@ -2,7 +2,7 @@
 
 Estas são minhas anotações do curso de Willian Justen.
 
-O conteúdo do curso se encontra no link: [Playlist no Youtube](https://www.youtube.com/playlist?list=PLlAbYrWSYTiPanrzauGa7vMuve7_vnXG_)
+O conteúdo do curso se encontra no link: [Playlist no Youtube](https://www.youtube.com/playlist?list=PLlAbYrWSYTiPanrzauGa7vMuve7_vnXG_).
 
 ## Tópicos
 
