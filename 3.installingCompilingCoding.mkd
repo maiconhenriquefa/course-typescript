@@ -1,0 +1,3 @@
+# Mini curso de TypeScript - Willian Justen
+
+Site oficial do Typescript: https://www.typescriptlang.org/
