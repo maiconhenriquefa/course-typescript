@@ -1,0 +1,11 @@
+# Mini curso de TypeScript - Willian Justen
+
+### Mitos
+
+- "Vou ter que aprender tudo **de novo**"
+- "Vou precisar **reescrever** tudo para TypeScrip"
+- "Ja escrevo **testes**, não preciso disso"
+- "Só funciona com **Programação Orientada a Objetos**"
+- "Ele é **verboso** demais, precisa tipar tudo"
+- "Só serve para **projeto grande**"
+- "É só usar **PropTypes** que dá na mesma"
