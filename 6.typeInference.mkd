@@ -1,0 +1,7 @@
+# Mini curso de TypeScript - Willian Justen
+
+Site oficial do Typescript: https://www.typescriptlang.org/
+
+## Type Inference
+
+Existem casos que não precisa tipar, pois o próprio typescript já entende o tipo.
