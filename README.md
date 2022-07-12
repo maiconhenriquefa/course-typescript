@@ -14,12 +14,7 @@ O conteúdo do curso se encontra no link: [Playlist no Youtube](https://www.yout
 6. **Types Inference** <br>
 7. **Type Aliases e Union** <br>
 8. **Type Aliases com Intersection** <br>
-9. **Classes** <br>
-10. **Interfaces** <br>
-11. **Type Alias vs Interface** <br>
-12. **Generics** <br>
-13. **Type Utilities** <br>
-14. **Decorators** <br>
+[Em construção ...]
 
 ---
 
